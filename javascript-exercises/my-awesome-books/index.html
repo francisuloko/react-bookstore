@@ -9,32 +9,29 @@
 </head>
 <body id="body">
     <p id="notice"></p>
-    <a href="#dipslay-books" class="links">List</a>
-    <a href="#new-book-form" class="links">Add</a>
-    <a href="#contact" class="links">Contact</a>
+    <a href="#dipslay-books" class="links" id='100'>List</a>
+    <a href="#new-book-form" class="links" id='101'>Add</a>
 
-    <section id='display-books'  class="show-page">
+    <section id='books-section'  class="books-section hide-page">
         <h1>My Awesome Books</h1>
-        <div id='bookList' class="book-list"></div>
+        <div id='book-list' class="book-list">
+            
+        </div>
     </section>
 
-    <section id='new-book-form' class="new-book-form">
+    <section id='new-book-form' class="new-book-form hide-page">
         <h2>Add new book</h2>
         <form>
             <div>
-            <input type="text" name="book-title" id="book-title" placeholder="Title">
+              <input type="text" name="book-title" id="book-title" placeholder="Title">
             </div>
 
             <div>
-            <input type="text" name="author" id="author" placeholder="Author">
+              <input type="text" name="author" id="author" placeholder="Author">
             </div>
             
             <button type="button" value="Add" id="add-button">Add book</button>
         </form>
-    </section>
-
-    <section id="single-page-app">
-
     </section>
     <script type="module" src="./assets/javascript/main.js"></script>
 </body>
