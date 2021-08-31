@@ -77,18 +77,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - [Twitter](https://twitter.com/francisuloko)
 - [LinkedIn](https://linkedin.com/in/francisuloko)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/francisuloko/react-bookstore/issues).
 
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 
 ## Acknowledgments
 
@@ -96,4 +93,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://mit-license.org/) licensed.
+This project is [MIT](https://mit-license.org/) licensed
